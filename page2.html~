@@ -1,0 +1,16 @@
+<DOCTYPE!>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+  <title>toinen sivu</title>
+ </head>
+ <body>
+  <h1>Tämä sivu on tehty käyttäen vim editoria</h1>
+  <p>alla näkyy random kuva vim fandomista</p>
+  <img src="vim1.png" alt="random kuva vim fandomista">
+  <a href="index.html">Ensimmäinen sivu</a>
+  <a href="page1.html">kolmas sivu</a>
+ </body>
+</html>
+

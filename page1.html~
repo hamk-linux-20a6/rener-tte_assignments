@@ -1,0 +1,16 @@
+<DOCTYPE!>
+<html>
+ <head>
+  <title>Kolmas sivu</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+  <h1>Tämä on kolmas sivu</h1>
+  <h3>Tämä sivu on tehty nanolla</h3>
+  <ul>
+   <li>nano on valmiiksi asennettuna</li>
+   <li>nano on mielestäni yksinkertaisin</li>
+  <a href="index.html">Ensimmäinen sivu</a>
+  <a href="page2.html">toinen sivu</a>
+ </body>

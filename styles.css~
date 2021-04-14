@@ -1,0 +1,13 @@
+body {
+    background-color:green
+}
+p {
+    font-size:1.2em
+}
+h3 {
+    font-size:1.1em
+}
+h1 {
+    -webkit-text-stroke: 1px red;
+}
+
